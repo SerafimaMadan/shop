@@ -36,7 +36,7 @@ switch ($sorting)
     <link href="css/reset.css" rel="stylesheet" type="text/css"/>
     <link href="css/style.css" rel="stylesheet" type="text/css"/>
     <link href="swichprice/track.css" rel="stylesheet" type="text/css"/>
-<script type="text/javascript" src="js/jquery-1.8.2.min.js"></script>
+<script type="text/javascript" src="js/jquery-1.8.2.min.js"></script> <!--библиотека java script-->
     <script type="text/javascript" src="js/jcarousellite_1.0.1.js"></script>
     <script type="text/javascript" src="js/shop-script.js"></script>
     <script type="text/javascript" src="js/jquery.cookie.min.js"></script>

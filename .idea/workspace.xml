@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da664046-7ba0-46f3-b370-7da8c0fd7a6a" name="Default" comment="" />
+    <list default="true" id="da664046-7ba0-46f3-b370-7da8c0fd7a6a" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,8 +16,8 @@
       <file leaf-file-name="view_cat.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/view_cat.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="310">
-              <caret line="248" column="49" lean-forward="true" selection-start-line="248" selection-start-column="49" selection-end-line="248" selection-end-column="49" />
+            <state relative-caret-position="4216">
+              <caret line="248" column="49" lean-forward="false" selection-start-line="248" selection-start-column="49" selection-end-line="248" selection-end-column="49" />
               <folding>
                 <marker date="1511954301844" expanded="true" signature="1497:1516" ph="..." />
                 <marker date="1511954301844" expanded="true" signature="3806:3859" ph="SELECT COUNT... table_producrs" />
@@ -43,46 +45,46 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="shop-script.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="shop-script.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/shop-script.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="565">
-              <caret line="113" column="0" lean-forward="true" selection-start-line="113" selection-start-column="0" selection-end-line="113" selection-end-column="0" />
+              <caret line="113" column="0" lean-forward="false" selection-start-line="113" selection-start-column="0" selection-end-line="113" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3587">
-              <caret line="236" column="27" lean-forward="true" selection-start-line="199" selection-start-column="6" selection-end-line="244" selection-end-column="34" />
+            <state relative-caret-position="527">
+              <caret line="44" column="6" lean-forward="true" selection-start-line="44" selection-start-column="6" selection-end-line="44" selection-end-column="6" />
               <folding>
-                <marker date="1511915455716" expanded="false" signature="1070:1089" ph="..." />
-                <marker date="1511915455716" expanded="true" signature="3177:3230" ph="SELECT COUNT... table_producrs" />
-                <marker date="1511915455716" expanded="true" signature="3177:3231" ph="SELECT COUNT... table_producrs" />
-                <marker date="1511915455716" expanded="true" signature="4155:4201" ph="SELECT * FRO... table_producrs" />
-                <marker date="1511915455716" expanded="true" signature="4155:4210" ph="SELECT * FRO... table_producrs" />
-                <marker date="1511915455716" expanded="true" signature="4155:4219" ph="SELECT * FRO... table_producrs" />
-                <marker date="1511915455716" expanded="true" signature="5457:5545" ph="SELECT * FRO... table_producrs" />
-                <marker date="1511915455716" expanded="true" signature="5598:5610" ph="..." />
-                <marker date="1511915455716" expanded="true" signature="5598:6167" ph="..." />
-                <marker date="1511915455716" expanded="true" signature="5627:5702" ph="..." />
-                <marker date="1511915455716" expanded="true" signature="5814:5918" ph="..." />
-                <marker date="1511915455716" expanded="true" signature="6501:6547" ph="SELECT * FRO... table_producrs" />
-                <marker date="1511915455716" expanded="true" signature="6501:6557" ph="SELECT * FRO... table_producrs" />
-                <marker date="1511915455716" expanded="true" signature="6501:6566" ph="SELECT * FRO... table_producrs" />
-                <marker date="1511915455716" expanded="true" signature="7776:7864" ph="SELECT * FRO... table_producrs" />
-                <marker date="1511915455716" expanded="true" signature="7776:7865" ph="SELECT * FRO... table_producrs" />
-                <marker date="1511915455716" expanded="true" signature="7920:7932" ph="..." />
-                <marker date="1511915455716" expanded="true" signature="7920:8474" ph="..." />
-                <marker date="1511915455716" expanded="true" signature="7949:8024" ph="..." />
-                <marker date="1511915455716" expanded="true" signature="8056:8160" ph="..." />
-                <marker date="1511915455716" expanded="true" signature="8765:8769" ph="&lt;" />
-                <marker date="1511915455716" expanded="true" signature="8948:8952" ph="&gt;" />
-                <marker date="1511915455716" expanded="true" signature="10676:10683" ph="..." />
-                <marker date="1511915455716" expanded="true" signature="10681:10683" ph="..." />
+                <marker date="1511996860706" expanded="false" signature="1070:1089" ph="..." />
+                <marker date="1511996860706" expanded="true" signature="3207:3260" ph="SELECT COUNT... table_producrs" />
+                <marker date="1511996860706" expanded="true" signature="3207:3261" ph="SELECT COUNT... table_producrs" />
+                <marker date="1511996860706" expanded="true" signature="4185:4231" ph="SELECT * FRO... table_producrs" />
+                <marker date="1511996860706" expanded="true" signature="4185:4240" ph="SELECT * FRO... table_producrs" />
+                <marker date="1511996860706" expanded="true" signature="4185:4249" ph="SELECT * FRO... table_producrs" />
+                <marker date="1511996860706" expanded="true" signature="5487:5575" ph="SELECT * FRO... table_producrs" />
+                <marker date="1511996860706" expanded="true" signature="5628:5640" ph="..." />
+                <marker date="1511996860706" expanded="true" signature="5628:6197" ph="..." />
+                <marker date="1511996860706" expanded="true" signature="5657:5732" ph="..." />
+                <marker date="1511996860706" expanded="true" signature="5844:5948" ph="..." />
+                <marker date="1511996860706" expanded="true" signature="6531:6577" ph="SELECT * FRO... table_producrs" />
+                <marker date="1511996860706" expanded="true" signature="6531:6587" ph="SELECT * FRO... table_producrs" />
+                <marker date="1511996860706" expanded="true" signature="6531:6596" ph="SELECT * FRO... table_producrs" />
+                <marker date="1511996860706" expanded="true" signature="7806:7894" ph="SELECT * FRO... table_producrs" />
+                <marker date="1511996860706" expanded="true" signature="7806:7895" ph="SELECT * FRO... table_producrs" />
+                <marker date="1511996860706" expanded="true" signature="7950:7962" ph="..." />
+                <marker date="1511996860706" expanded="true" signature="7950:8504" ph="..." />
+                <marker date="1511996860706" expanded="true" signature="7979:8054" ph="..." />
+                <marker date="1511996860706" expanded="true" signature="8086:8190" ph="..." />
+                <marker date="1511996860706" expanded="true" signature="8795:8799" ph="&lt;" />
+                <marker date="1511996860706" expanded="true" signature="8978:8982" ph="&gt;" />
+                <marker date="1511996860706" expanded="true" signature="10706:10713" ph="..." />
+                <marker date="1511996860706" expanded="true" signature="10711:10713" ph="..." />
               </folding>
             </state>
           </provider>
@@ -92,7 +94,7 @@
         <entry file="file://$PROJECT_DIR$/include/block-header.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="561">
-              <caret line="33" column="39" lean-forward="true" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
+              <caret line="33" column="39" lean-forward="false" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -101,8 +103,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="43" column="7" lean-forward="true" selection-start-line="43" selection-start-column="7" selection-end-line="43" selection-end-column="7" />
+            <state relative-caret-position="731">
+              <caret line="43" column="7" lean-forward="false" selection-start-line="43" selection-start-column="7" selection-end-line="43" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -154,11 +156,11 @@
         <option value="$PROJECT_DIR$/js/controluserreg.js" />
         <option value="$PROJECT_DIR$/include/block-parametry.php" />
         <option value="$PROJECT_DIR$/include/log.php" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/view_cat.php" />
         <option value="$PROJECT_DIR$/include/block-header.php" />
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/js/shop-script.js" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
@@ -216,6 +218,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -232,7 +235,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -284,16 +286,18 @@
       <workItem from="1511544227155" duration="1897000" />
       <workItem from="1511883313572" duration="20509000" />
       <workItem from="1511949718229" duration="4808000" />
+      <workItem from="1511996792018" duration="69000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="182052000" />
+    <option name="totallyTimeSpent" value="182121000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18020834" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18020834" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294979" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -338,30 +342,30 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1511915455716" expanded="false" signature="1070:1089" ph="..." />
-            <marker date="1511915455716" expanded="true" signature="3177:3230" ph="SELECT COUNT... table_producrs" />
-            <marker date="1511915455716" expanded="true" signature="3177:3231" ph="SELECT COUNT... table_producrs" />
-            <marker date="1511915455716" expanded="true" signature="4155:4201" ph="SELECT * FRO... table_producrs" />
-            <marker date="1511915455716" expanded="true" signature="4155:4210" ph="SELECT * FRO... table_producrs" />
-            <marker date="1511915455716" expanded="true" signature="4155:4219" ph="SELECT * FRO... table_producrs" />
-            <marker date="1511915455716" expanded="true" signature="5457:5545" ph="SELECT * FRO... table_producrs" />
-            <marker date="1511915455716" expanded="true" signature="5598:5610" ph="..." />
-            <marker date="1511915455716" expanded="true" signature="5598:6167" ph="..." />
-            <marker date="1511915455716" expanded="true" signature="5627:5702" ph="..." />
-            <marker date="1511915455716" expanded="true" signature="5814:5918" ph="..." />
-            <marker date="1511915455716" expanded="true" signature="6501:6547" ph="SELECT * FRO... table_producrs" />
-            <marker date="1511915455716" expanded="true" signature="6501:6557" ph="SELECT * FRO... table_producrs" />
-            <marker date="1511915455716" expanded="true" signature="6501:6566" ph="SELECT * FRO... table_producrs" />
-            <marker date="1511915455716" expanded="true" signature="7776:7864" ph="SELECT * FRO... table_producrs" />
-            <marker date="1511915455716" expanded="true" signature="7776:7865" ph="SELECT * FRO... table_producrs" />
-            <marker date="1511915455716" expanded="true" signature="7920:7932" ph="..." />
-            <marker date="1511915455716" expanded="true" signature="7920:8474" ph="..." />
-            <marker date="1511915455716" expanded="true" signature="7949:8024" ph="..." />
-            <marker date="1511915455716" expanded="true" signature="8056:8160" ph="..." />
-            <marker date="1511915455716" expanded="true" signature="8765:8769" ph="&lt;" />
-            <marker date="1511915455716" expanded="true" signature="8948:8952" ph="&gt;" />
-            <marker date="1511915455716" expanded="true" signature="10676:10683" ph="..." />
-            <marker date="1511915455716" expanded="true" signature="10681:10683" ph="..." />
+            <marker date="1511996860706" expanded="false" signature="1070:1089" ph="..." />
+            <marker date="1511996860706" expanded="true" signature="3207:3260" ph="SELECT COUNT... table_producrs" />
+            <marker date="1511996860706" expanded="true" signature="3207:3261" ph="SELECT COUNT... table_producrs" />
+            <marker date="1511996860706" expanded="true" signature="4185:4231" ph="SELECT * FRO... table_producrs" />
+            <marker date="1511996860706" expanded="true" signature="4185:4240" ph="SELECT * FRO... table_producrs" />
+            <marker date="1511996860706" expanded="true" signature="4185:4249" ph="SELECT * FRO... table_producrs" />
+            <marker date="1511996860706" expanded="true" signature="5487:5575" ph="SELECT * FRO... table_producrs" />
+            <marker date="1511996860706" expanded="true" signature="5628:5640" ph="..." />
+            <marker date="1511996860706" expanded="true" signature="5628:6197" ph="..." />
+            <marker date="1511996860706" expanded="true" signature="5657:5732" ph="..." />
+            <marker date="1511996860706" expanded="true" signature="5844:5948" ph="..." />
+            <marker date="1511996860706" expanded="true" signature="6531:6577" ph="SELECT * FRO... table_producrs" />
+            <marker date="1511996860706" expanded="true" signature="6531:6587" ph="SELECT * FRO... table_producrs" />
+            <marker date="1511996860706" expanded="true" signature="6531:6596" ph="SELECT * FRO... table_producrs" />
+            <marker date="1511996860706" expanded="true" signature="7806:7894" ph="SELECT * FRO... table_producrs" />
+            <marker date="1511996860706" expanded="true" signature="7806:7895" ph="SELECT * FRO... table_producrs" />
+            <marker date="1511996860706" expanded="true" signature="7950:7962" ph="..." />
+            <marker date="1511996860706" expanded="true" signature="7950:8504" ph="..." />
+            <marker date="1511996860706" expanded="true" signature="7979:8054" ph="..." />
+            <marker date="1511996860706" expanded="true" signature="8086:8190" ph="..." />
+            <marker date="1511996860706" expanded="true" signature="8795:8799" ph="&lt;" />
+            <marker date="1511996860706" expanded="true" signature="8978:8982" ph="&gt;" />
+            <marker date="1511996860706" expanded="true" signature="10706:10713" ph="..." />
+            <marker date="1511996860706" expanded="true" signature="10711:10713" ph="..." />
           </folding>
         </state>
       </provider>
@@ -402,30 +406,30 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1511915455716" expanded="false" signature="1070:1089" ph="..." />
-            <marker date="1511915455716" expanded="true" signature="3177:3230" ph="SELECT COUNT... table_producrs" />
-            <marker date="1511915455716" expanded="true" signature="3177:3231" ph="SELECT COUNT... table_producrs" />
-            <marker date="1511915455716" expanded="true" signature="4155:4201" ph="SELECT * FRO... table_producrs" />
-            <marker date="1511915455716" expanded="true" signature="4155:4210" ph="SELECT * FRO... table_producrs" />
-            <marker date="1511915455716" expanded="true" signature="4155:4219" ph="SELECT * FRO... table_producrs" />
-            <marker date="1511915455716" expanded="true" signature="5457:5545" ph="SELECT * FRO... table_producrs" />
-            <marker date="1511915455716" expanded="true" signature="5598:5610" ph="..." />
-            <marker date="1511915455716" expanded="true" signature="5598:6167" ph="..." />
-            <marker date="1511915455716" expanded="true" signature="5627:5702" ph="..." />
-            <marker date="1511915455716" expanded="true" signature="5814:5918" ph="..." />
-            <marker date="1511915455716" expanded="true" signature="6501:6547" ph="SELECT * FRO... table_producrs" />
-            <marker date="1511915455716" expanded="true" signature="6501:6557" ph="SELECT * FRO... table_producrs" />
-            <marker date="1511915455716" expanded="true" signature="6501:6566" ph="SELECT * FRO... table_producrs" />
-            <marker date="1511915455716" expanded="true" signature="7776:7864" ph="SELECT * FRO... table_producrs" />
-            <marker date="1511915455716" expanded="true" signature="7776:7865" ph="SELECT * FRO... table_producrs" />
-            <marker date="1511915455716" expanded="true" signature="7920:7932" ph="..." />
-            <marker date="1511915455716" expanded="true" signature="7920:8474" ph="..." />
-            <marker date="1511915455716" expanded="true" signature="7949:8024" ph="..." />
-            <marker date="1511915455716" expanded="true" signature="8056:8160" ph="..." />
-            <marker date="1511915455716" expanded="true" signature="8765:8769" ph="&lt;" />
-            <marker date="1511915455716" expanded="true" signature="8948:8952" ph="&gt;" />
-            <marker date="1511915455716" expanded="true" signature="10676:10683" ph="..." />
-            <marker date="1511915455716" expanded="true" signature="10681:10683" ph="..." />
+            <marker date="1511996860706" expanded="false" signature="1070:1089" ph="..." />
+            <marker date="1511996860706" expanded="true" signature="3207:3260" ph="SELECT COUNT... table_producrs" />
+            <marker date="1511996860706" expanded="true" signature="3207:3261" ph="SELECT COUNT... table_producrs" />
+            <marker date="1511996860706" expanded="true" signature="4185:4231" ph="SELECT * FRO... table_producrs" />
+            <marker date="1511996860706" expanded="true" signature="4185:4240" ph="SELECT * FRO... table_producrs" />
+            <marker date="1511996860706" expanded="true" signature="4185:4249" ph="SELECT * FRO... table_producrs" />
+            <marker date="1511996860706" expanded="true" signature="5487:5575" ph="SELECT * FRO... table_producrs" />
+            <marker date="1511996860706" expanded="true" signature="5628:5640" ph="..." />
+            <marker date="1511996860706" expanded="true" signature="5628:6197" ph="..." />
+            <marker date="1511996860706" expanded="true" signature="5657:5732" ph="..." />
+            <marker date="1511996860706" expanded="true" signature="5844:5948" ph="..." />
+            <marker date="1511996860706" expanded="true" signature="6531:6577" ph="SELECT * FRO... table_producrs" />
+            <marker date="1511996860706" expanded="true" signature="6531:6587" ph="SELECT * FRO... table_producrs" />
+            <marker date="1511996860706" expanded="true" signature="6531:6596" ph="SELECT * FRO... table_producrs" />
+            <marker date="1511996860706" expanded="true" signature="7806:7894" ph="SELECT * FRO... table_producrs" />
+            <marker date="1511996860706" expanded="true" signature="7806:7895" ph="SELECT * FRO... table_producrs" />
+            <marker date="1511996860706" expanded="true" signature="7950:7962" ph="..." />
+            <marker date="1511996860706" expanded="true" signature="7950:8504" ph="..." />
+            <marker date="1511996860706" expanded="true" signature="7979:8054" ph="..." />
+            <marker date="1511996860706" expanded="true" signature="8086:8190" ph="..." />
+            <marker date="1511996860706" expanded="true" signature="8795:8799" ph="&lt;" />
+            <marker date="1511996860706" expanded="true" signature="8978:8982" ph="&gt;" />
+            <marker date="1511996860706" expanded="true" signature="10706:10713" ph="..." />
+            <marker date="1511996860706" expanded="true" signature="10711:10713" ph="..." />
           </folding>
         </state>
       </provider>
@@ -466,30 +470,30 @@
         <state relative-caret-position="323">
           <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding>
-            <marker date="1511915455716" expanded="false" signature="1070:1089" ph="..." />
-            <marker date="1511915455716" expanded="true" signature="3177:3230" ph="SELECT COUNT... table_producrs" />
-            <marker date="1511915455716" expanded="true" signature="3177:3231" ph="SELECT COUNT... table_producrs" />
-            <marker date="1511915455716" expanded="true" signature="4155:4201" ph="SELECT * FRO... table_producrs" />
-            <marker date="1511915455716" expanded="true" signature="4155:4210" ph="SELECT * FRO... table_producrs" />
-            <marker date="1511915455716" expanded="true" signature="4155:4219" ph="SELECT * FRO... table_producrs" />
-            <marker date="1511915455716" expanded="true" signature="5457:5545" ph="SELECT * FRO... table_producrs" />
-            <marker date="1511915455716" expanded="true" signature="5598:5610" ph="..." />
-            <marker date="1511915455716" expanded="true" signature="5598:6167" ph="..." />
-            <marker date="1511915455716" expanded="true" signature="5627:5702" ph="..." />
-            <marker date="1511915455716" expanded="true" signature="5814:5918" ph="..." />
-            <marker date="1511915455716" expanded="true" signature="6501:6547" ph="SELECT * FRO... table_producrs" />
-            <marker date="1511915455716" expanded="true" signature="6501:6557" ph="SELECT * FRO... table_producrs" />
-            <marker date="1511915455716" expanded="true" signature="6501:6566" ph="SELECT * FRO... table_producrs" />
-            <marker date="1511915455716" expanded="true" signature="7776:7864" ph="SELECT * FRO... table_producrs" />
-            <marker date="1511915455716" expanded="true" signature="7776:7865" ph="SELECT * FRO... table_producrs" />
-            <marker date="1511915455716" expanded="true" signature="7920:7932" ph="..." />
-            <marker date="1511915455716" expanded="true" signature="7920:8474" ph="..." />
-            <marker date="1511915455716" expanded="true" signature="7949:8024" ph="..." />
-            <marker date="1511915455716" expanded="true" signature="8056:8160" ph="..." />
-            <marker date="1511915455716" expanded="true" signature="8765:8769" ph="&lt;" />
-            <marker date="1511915455716" expanded="true" signature="8948:8952" ph="&gt;" />
-            <marker date="1511915455716" expanded="true" signature="10676:10683" ph="..." />
-            <marker date="1511915455716" expanded="true" signature="10681:10683" ph="..." />
+            <marker date="1511996860706" expanded="false" signature="1070:1089" ph="..." />
+            <marker date="1511996860706" expanded="true" signature="3207:3260" ph="SELECT COUNT... table_producrs" />
+            <marker date="1511996860706" expanded="true" signature="3207:3261" ph="SELECT COUNT... table_producrs" />
+            <marker date="1511996860706" expanded="true" signature="4185:4231" ph="SELECT * FRO... table_producrs" />
+            <marker date="1511996860706" expanded="true" signature="4185:4240" ph="SELECT * FRO... table_producrs" />
+            <marker date="1511996860706" expanded="true" signature="4185:4249" ph="SELECT * FRO... table_producrs" />
+            <marker date="1511996860706" expanded="true" signature="5487:5575" ph="SELECT * FRO... table_producrs" />
+            <marker date="1511996860706" expanded="true" signature="5628:5640" ph="..." />
+            <marker date="1511996860706" expanded="true" signature="5628:6197" ph="..." />
+            <marker date="1511996860706" expanded="true" signature="5657:5732" ph="..." />
+            <marker date="1511996860706" expanded="true" signature="5844:5948" ph="..." />
+            <marker date="1511996860706" expanded="true" signature="6531:6577" ph="SELECT * FRO... table_producrs" />
+            <marker date="1511996860706" expanded="true" signature="6531:6587" ph="SELECT * FRO... table_producrs" />
+            <marker date="1511996860706" expanded="true" signature="6531:6596" ph="SELECT * FRO... table_producrs" />
+            <marker date="1511996860706" expanded="true" signature="7806:7894" ph="SELECT * FRO... table_producrs" />
+            <marker date="1511996860706" expanded="true" signature="7806:7895" ph="SELECT * FRO... table_producrs" />
+            <marker date="1511996860706" expanded="true" signature="7950:7962" ph="..." />
+            <marker date="1511996860706" expanded="true" signature="7950:8504" ph="..." />
+            <marker date="1511996860706" expanded="true" signature="7979:8054" ph="..." />
+            <marker date="1511996860706" expanded="true" signature="8086:8190" ph="..." />
+            <marker date="1511996860706" expanded="true" signature="8795:8799" ph="&lt;" />
+            <marker date="1511996860706" expanded="true" signature="8978:8982" ph="&gt;" />
+            <marker date="1511996860706" expanded="true" signature="10706:10713" ph="..." />
+            <marker date="1511996860706" expanded="true" signature="10711:10713" ph="..." />
           </folding>
         </state>
       </provider>
@@ -507,30 +511,30 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1511915455716" expanded="false" signature="1070:1089" ph="..." />
-            <marker date="1511915455716" expanded="true" signature="3177:3230" ph="SELECT COUNT... table_producrs" />
-            <marker date="1511915455716" expanded="true" signature="3177:3231" ph="SELECT COUNT... table_producrs" />
-            <marker date="1511915455716" expanded="true" signature="4155:4201" ph="SELECT * FRO... table_producrs" />
-            <marker date="1511915455716" expanded="true" signature="4155:4210" ph="SELECT * FRO... table_producrs" />
-            <marker date="1511915455716" expanded="true" signature="4155:4219" ph="SELECT * FRO... table_producrs" />
-            <marker date="1511915455716" expanded="true" signature="5457:5545" ph="SELECT * FRO... table_producrs" />
-            <marker date="1511915455716" expanded="true" signature="5598:5610" ph="..." />
-            <marker date="1511915455716" expanded="true" signature="5598:6167" ph="..." />
-            <marker date="1511915455716" expanded="true" signature="5627:5702" ph="..." />
-            <marker date="1511915455716" expanded="true" signature="5814:5918" ph="..." />
-            <marker date="1511915455716" expanded="true" signature="6501:6547" ph="SELECT * FRO... table_producrs" />
-            <marker date="1511915455716" expanded="true" signature="6501:6557" ph="SELECT * FRO... table_producrs" />
-            <marker date="1511915455716" expanded="true" signature="6501:6566" ph="SELECT * FRO... table_producrs" />
-            <marker date="1511915455716" expanded="true" signature="7776:7864" ph="SELECT * FRO... table_producrs" />
-            <marker date="1511915455716" expanded="true" signature="7776:7865" ph="SELECT * FRO... table_producrs" />
-            <marker date="1511915455716" expanded="true" signature="7920:7932" ph="..." />
-            <marker date="1511915455716" expanded="true" signature="7920:8474" ph="..." />
-            <marker date="1511915455716" expanded="true" signature="7949:8024" ph="..." />
-            <marker date="1511915455716" expanded="true" signature="8056:8160" ph="..." />
-            <marker date="1511915455716" expanded="true" signature="8765:8769" ph="&lt;" />
-            <marker date="1511915455716" expanded="true" signature="8948:8952" ph="&gt;" />
-            <marker date="1511915455716" expanded="true" signature="10676:10683" ph="..." />
-            <marker date="1511915455716" expanded="true" signature="10681:10683" ph="..." />
+            <marker date="1511996860706" expanded="false" signature="1070:1089" ph="..." />
+            <marker date="1511996860706" expanded="true" signature="3207:3260" ph="SELECT COUNT... table_producrs" />
+            <marker date="1511996860706" expanded="true" signature="3207:3261" ph="SELECT COUNT... table_producrs" />
+            <marker date="1511996860706" expanded="true" signature="4185:4231" ph="SELECT * FRO... table_producrs" />
+            <marker date="1511996860706" expanded="true" signature="4185:4240" ph="SELECT * FRO... table_producrs" />
+            <marker date="1511996860706" expanded="true" signature="4185:4249" ph="SELECT * FRO... table_producrs" />
+            <marker date="1511996860706" expanded="true" signature="5487:5575" ph="SELECT * FRO... table_producrs" />
+            <marker date="1511996860706" expanded="true" signature="5628:5640" ph="..." />
+            <marker date="1511996860706" expanded="true" signature="5628:6197" ph="..." />
+            <marker date="1511996860706" expanded="true" signature="5657:5732" ph="..." />
+            <marker date="1511996860706" expanded="true" signature="5844:5948" ph="..." />
+            <marker date="1511996860706" expanded="true" signature="6531:6577" ph="SELECT * FRO... table_producrs" />
+            <marker date="1511996860706" expanded="true" signature="6531:6587" ph="SELECT * FRO... table_producrs" />
+            <marker date="1511996860706" expanded="true" signature="6531:6596" ph="SELECT * FRO... table_producrs" />
+            <marker date="1511996860706" expanded="true" signature="7806:7894" ph="SELECT * FRO... table_producrs" />
+            <marker date="1511996860706" expanded="true" signature="7806:7895" ph="SELECT * FRO... table_producrs" />
+            <marker date="1511996860706" expanded="true" signature="7950:7962" ph="..." />
+            <marker date="1511996860706" expanded="true" signature="7950:8504" ph="..." />
+            <marker date="1511996860706" expanded="true" signature="7979:8054" ph="..." />
+            <marker date="1511996860706" expanded="true" signature="8086:8190" ph="..." />
+            <marker date="1511996860706" expanded="true" signature="8795:8799" ph="&lt;" />
+            <marker date="1511996860706" expanded="true" signature="8978:8982" ph="&gt;" />
+            <marker date="1511996860706" expanded="true" signature="10706:10713" ph="..." />
+            <marker date="1511996860706" expanded="true" signature="10711:10713" ph="..." />
           </folding>
         </state>
       </provider>
@@ -660,7 +664,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="21" column="1" lean-forward="false" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -675,7 +678,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -683,9 +685,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" column="2" lean-forward="false" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
-          <folding>
-            <marker date="1511909449431" expanded="true" signature="330:377" ph="SELECT `logi... reg_user" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -693,7 +692,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="2" lean-forward="false" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -701,10 +699,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="21" lean-forward="false" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
-          <folding>
-            <marker date="1511912007389" expanded="true" signature="278:289" ph="..." />
-            <marker date="1511912007389" expanded="true" signature="370:381" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -712,13 +706,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="718">
           <caret line="73" column="20" lean-forward="false" selection-start-line="73" selection-start-column="20" selection-end-line="73" selection-end-column="20" />
-          <folding>
-            <marker date="1511899862132" expanded="true" signature="847:896" ph="SELECT login... reg_user" />
-            <marker date="1511899862132" expanded="true" signature="2005:2081" ph="INSERT INTO reg_user... " />
-            <marker date="1511899862132" expanded="true" signature="2005:2509" ph="INSERT INTO reg_user... " />
-            <marker date="1511899862132" expanded="true" signature="2005:2560" ph="INSERT INTO reg_user... " />
-            <marker date="1511899862132" expanded="true" signature="2005:2561" ph="INSERT INTO reg_user... " />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -734,7 +721,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="446">
           <caret line="97" column="0" lean-forward="true" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -742,14 +728,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="22" column="29" lean-forward="true" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/view_cat.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="248" column="49" lean-forward="true" selection-start-line="248" selection-start-column="49" selection-end-line="248" selection-end-column="49" />
+        <state relative-caret-position="4216">
+          <caret line="248" column="49" lean-forward="false" selection-start-line="248" selection-start-column="49" selection-end-line="248" selection-end-column="49" />
           <folding>
             <marker date="1511954301844" expanded="true" signature="1497:1516" ph="..." />
             <marker date="1511954301844" expanded="true" signature="3806:3859" ph="SELECT COUNT... table_producrs" />
@@ -776,43 +761,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3587">
-          <caret line="236" column="27" lean-forward="true" selection-start-line="199" selection-start-column="6" selection-end-line="244" selection-end-column="34" />
-          <folding>
-            <marker date="1511915455716" expanded="false" signature="1070:1089" ph="..." />
-            <marker date="1511915455716" expanded="true" signature="3177:3230" ph="SELECT COUNT... table_producrs" />
-            <marker date="1511915455716" expanded="true" signature="3177:3231" ph="SELECT COUNT... table_producrs" />
-            <marker date="1511915455716" expanded="true" signature="4155:4201" ph="SELECT * FRO... table_producrs" />
-            <marker date="1511915455716" expanded="true" signature="4155:4210" ph="SELECT * FRO... table_producrs" />
-            <marker date="1511915455716" expanded="true" signature="4155:4219" ph="SELECT * FRO... table_producrs" />
-            <marker date="1511915455716" expanded="true" signature="5457:5545" ph="SELECT * FRO... table_producrs" />
-            <marker date="1511915455716" expanded="true" signature="5598:5610" ph="..." />
-            <marker date="1511915455716" expanded="true" signature="5598:6167" ph="..." />
-            <marker date="1511915455716" expanded="true" signature="5627:5702" ph="..." />
-            <marker date="1511915455716" expanded="true" signature="5814:5918" ph="..." />
-            <marker date="1511915455716" expanded="true" signature="6501:6547" ph="SELECT * FRO... table_producrs" />
-            <marker date="1511915455716" expanded="true" signature="6501:6557" ph="SELECT * FRO... table_producrs" />
-            <marker date="1511915455716" expanded="true" signature="6501:6566" ph="SELECT * FRO... table_producrs" />
-            <marker date="1511915455716" expanded="true" signature="7776:7864" ph="SELECT * FRO... table_producrs" />
-            <marker date="1511915455716" expanded="true" signature="7776:7865" ph="SELECT * FRO... table_producrs" />
-            <marker date="1511915455716" expanded="true" signature="7920:7932" ph="..." />
-            <marker date="1511915455716" expanded="true" signature="7920:8474" ph="..." />
-            <marker date="1511915455716" expanded="true" signature="7949:8024" ph="..." />
-            <marker date="1511915455716" expanded="true" signature="8056:8160" ph="..." />
-            <marker date="1511915455716" expanded="true" signature="8765:8769" ph="&lt;" />
-            <marker date="1511915455716" expanded="true" signature="8948:8952" ph="&gt;" />
-            <marker date="1511915455716" expanded="true" signature="10676:10683" ph="..." />
-            <marker date="1511915455716" expanded="true" signature="10681:10683" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="43" column="7" lean-forward="true" selection-start-line="43" selection-start-column="7" selection-end-line="43" selection-end-column="7" />
+        <state relative-caret-position="731">
+          <caret line="43" column="7" lean-forward="false" selection-start-line="43" selection-start-column="7" selection-end-line="43" selection-end-column="7" />
           <folding />
         </state>
       </provider>
@@ -820,7 +772,7 @@
     <entry file="file://$PROJECT_DIR$/include/block-header.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="561">
-          <caret line="33" column="39" lean-forward="true" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
+          <caret line="33" column="39" lean-forward="false" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
           <folding />
         </state>
       </provider>
@@ -828,8 +780,41 @@
     <entry file="file://$PROJECT_DIR$/js/shop-script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="565">
-          <caret line="113" column="0" lean-forward="true" selection-start-line="113" selection-start-column="0" selection-end-line="113" selection-end-column="0" />
+          <caret line="113" column="0" lean-forward="false" selection-start-line="113" selection-start-column="0" selection-end-line="113" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="44" column="6" lean-forward="true" selection-start-line="44" selection-start-column="6" selection-end-line="44" selection-end-column="6" />
+          <folding>
+            <marker date="1511996860706" expanded="false" signature="1070:1089" ph="..." />
+            <marker date="1511996860706" expanded="true" signature="3207:3260" ph="SELECT COUNT... table_producrs" />
+            <marker date="1511996860706" expanded="true" signature="3207:3261" ph="SELECT COUNT... table_producrs" />
+            <marker date="1511996860706" expanded="true" signature="4185:4231" ph="SELECT * FRO... table_producrs" />
+            <marker date="1511996860706" expanded="true" signature="4185:4240" ph="SELECT * FRO... table_producrs" />
+            <marker date="1511996860706" expanded="true" signature="4185:4249" ph="SELECT * FRO... table_producrs" />
+            <marker date="1511996860706" expanded="true" signature="5487:5575" ph="SELECT * FRO... table_producrs" />
+            <marker date="1511996860706" expanded="true" signature="5628:5640" ph="..." />
+            <marker date="1511996860706" expanded="true" signature="5628:6197" ph="..." />
+            <marker date="1511996860706" expanded="true" signature="5657:5732" ph="..." />
+            <marker date="1511996860706" expanded="true" signature="5844:5948" ph="..." />
+            <marker date="1511996860706" expanded="true" signature="6531:6577" ph="SELECT * FRO... table_producrs" />
+            <marker date="1511996860706" expanded="true" signature="6531:6587" ph="SELECT * FRO... table_producrs" />
+            <marker date="1511996860706" expanded="true" signature="6531:6596" ph="SELECT * FRO... table_producrs" />
+            <marker date="1511996860706" expanded="true" signature="7806:7894" ph="SELECT * FRO... table_producrs" />
+            <marker date="1511996860706" expanded="true" signature="7806:7895" ph="SELECT * FRO... table_producrs" />
+            <marker date="1511996860706" expanded="true" signature="7950:7962" ph="..." />
+            <marker date="1511996860706" expanded="true" signature="7950:8504" ph="..." />
+            <marker date="1511996860706" expanded="true" signature="7979:8054" ph="..." />
+            <marker date="1511996860706" expanded="true" signature="8086:8190" ph="..." />
+            <marker date="1511996860706" expanded="true" signature="8795:8799" ph="&lt;" />
+            <marker date="1511996860706" expanded="true" signature="8978:8982" ph="&gt;" />
+            <marker date="1511996860706" expanded="true" signature="10706:10713" ph="..." />
+            <marker date="1511996860706" expanded="true" signature="10711:10713" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
